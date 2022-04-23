@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+}
+h1 {
+  text-align: center;
+  color: darkgrey;
+}
+h2 {
+  text-align: center;
+  color: darkgrey;
+}
+p {
+  text-align: left;
+  font-size: 18px;
+  color: darkgrey;
+}
+.headder {
+  font-weight: bold;
+  color: darkgrey;
+}
+.img {
+  border-color: black;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.imgbig {
+  width: 634px;
+  height: 357px;
+  border-color: black;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
